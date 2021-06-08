@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevesh Krishna</h1>
-<h3 align="center">A machine learning enthusiast from India</h3>
+<h3 align="center">A machine learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevesh2002&label=Profile%20views&color=0e75b6&style=flat" alt="jeevesh2002" /> </p>
 
