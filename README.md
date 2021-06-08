@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python, C, ML**
 
-- 📫 How to reach me **jeeveshkrishna2010708@ssn.edu.in**
+- 📫 How to reach me **yv7bn76s8@relay.firefox.com**
 
 <h2>A little bit more about me</h2>
 
