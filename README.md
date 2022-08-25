@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>About Me</h2>
+<h2>About Me <a href="https://github.com/jeevesh2002/assets/blob/master/resume.pdf?raw=true"><img src="https://img.shields.io/badge/-ResuMe-fb5e53?style=flat&logo=Link&logoColor=white"/></a></h2>
 <strong>Computer Science</strong> undergraduate student at<strong> SSN College of Engineering</strong> chennai. I am an avid programmer and a machine learning enthusiast.<br>
 My interests include web development, computer vision, deep learning, cybersecurity and astrophysics.
 <hr>
