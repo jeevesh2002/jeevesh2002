@@ -8,8 +8,8 @@
 <hr>
 
 <h2>About Me <a href="https://github.com/jeevesh2002/assets/blob/master/resume.pdf?raw=true"><img src="https://img.shields.io/badge/-ResuMe-fb5e53?style=flat&logo=Link&logoColor=white"/></a></h2>
-<strong>Computer Science</strong> undergraduate student at<strong> SSN College of Engineering</strong> chennai. I am an avid programmer and a machine learning enthusiast.<br>
-My interests include web development, computer vision, deep learning, cybersecurity and astrophysics.
+<strong>Computer Science</strong> undergraduate student at<strong> SSN College of Engineering</strong> chennai. I am an avid programmer and a Quantum developer.<br>
+My interests include post quantum cryptography, machine learning, web development, computer vision, deep learning, cybersecurity and astrophysics.
 <hr>
 <h2>Experience</h2>
 <em>
@@ -21,16 +21,35 @@ Hosted Live CTF Workshops and Demos (SSN Cybersecurity Club Events)
 </em>
 <hr>
 <h2>Achievements</h2>
-<strong>NSEJS Nation TOP 1%</strong><br>
+<strong>NSEJS National Top 1%</strong><br>
 <em>
 → Awarded the National Top 1 % certificate in NSEJS by the Indian Association of Physics Teachers.
+</em>
+<br>
+<strong>MIT iQuHACK 2023</strong><br>
+<em>
+→ Secured 4th place in Microsoft's challenge at the iQuHack 2023, which was focused on optimizing quantum circuits and specifically quantum oracles. The challenge involved rewriting the code of quantum oracles to maintain their correctness while using minimal resources, such as logical qubits and cycles in the circuits.
+</em>
+<br>
+<strong>ICPC Algo Queens 2023</strong><br>
+<em>
+→ Secured 2nd place in the Quantum Challange of the ICPC Algo Queens contest 2023.
+</em>
+<br>
+<strong>IBM Qiskit Ecosystem</strong><br>
+<em>
+→ Contributed to the IBM Qiskit Ecosystem by developing and implementing features, fixing bugs, and creating educational projects to assist beginners in understanding quantum computing using Qiskit.
+</em>
+<br>
+<strong>Hacktoberfest 2022</strong><br>
+<em>
+→ Participated in Hacktober 2022 and contributed to open-source projects. Developed and implemented new features, fixed bugs, refactored code, and contributed to documentation. Successfully completed and won the Hacktobefest 2022 challenge.
 </em>
 <br>
 <strong>USACO</strong><br>
 <em>
 → Contributed to the Open Source USACO Guide for competitive programming (Bronze Section).
 </em>
-
 <hr>
 
 ## Languages and Tools :
