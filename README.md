@@ -18,7 +18,7 @@ His horizon is wider than his job. He writes about AI, space, public policy, and
 
 Right now, he is working on networks and security at Cisco, building private AI systems, and asking how intelligence should behave when it cannot call home.
 
-Start with his [writing](https://jeeveshkrishna.com/writing), [information-theoretic Wordle solver](https://github.com/jeevesh2002/wordle), [quantum network simulation](https://github.com/jeevesh2002/690QCProject), or [Qiskit learning project](https://github.com/jeevesh2002/QuantumKatasQiskit).
+Start with his [writing](https://jeeveshkrishna.com/blog), [information-theoretic Wordle solver](https://github.com/jeevesh2002/wordle), [quantum network simulation](https://github.com/jeevesh2002/690QCProject), or [Qiskit learning project](https://github.com/jeevesh2002/QuantumKatasQiskit).
 
 [website](https://jeeveshkrishna.com) · [LinkedIn](https://www.linkedin.com/in/jeevesh-krishna-arigala/) · [email](mailto:contactme@jeeveshkrishna.com)
 
